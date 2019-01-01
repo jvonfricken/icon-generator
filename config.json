@@ -1,0 +1,16 @@
+{
+    "sizes": [
+        {
+            "res":180,
+            "name":"ExampleAppIcon@3x.png"
+        },
+        {
+            "res":120,
+            "name":"ExampleAppIcon@2x.png"
+        },
+        {
+            "res":60,
+            "name":"ExampleAppIcon@1x.png"
+        }
+    ]
+}
